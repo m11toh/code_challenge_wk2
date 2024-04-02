@@ -1,11 +1,18 @@
-# (Project Name)
+# (Code Challenge week 2)
 
 #### Date, 2024/03/29
 
 #### By *Martin Maina*
 
 ## Description
-Solutions for the arruy code challenges.
+Solution1
+Provides a string and changes the lowercase to uppercase or viceversa
+
+Solution2
+Creates an array between two values: num1 and num2
+
+Solution3
+Creates an array and finds the prime numbers between 2 and the given value
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
